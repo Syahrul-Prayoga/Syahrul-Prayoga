@@ -7,11 +7,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Under Graduate Reasearch Proposal**
 - 🌱 I’m currently focus on learning **Laravel and PWA**
+- 💬 Ask me about **Anything**
+- 📫 How to reach me: **[syahrulprayoga@gmail.com](mailto:syahrulprayoga@gmail.com)**
+- 😄 Pronouns: **He/Him**
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... (under pronouns) -->
-- 💬 Ask me about **_Anything]**
-- 📫 How to reach me: **[syahrulprayoga@gmail.com] (mailto:syahrulprayoga@gmail.com)**
-- 😄 Pronouns: **He/Him**
 
 
