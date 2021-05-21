@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... (under pronouns) -->
-- 💬 Ask me about **_[Anything]_**
-- 📫 How to reach me: **[syahrulprayoga@gmail.com] (mailto:syahrulprayoga@gmail.com)
+- 💬 Ask me about **_Anything]**
+- 📫 How to reach me: **[syahrulprayoga@gmail.com] (mailto:syahrulprayoga@gmail.com)**
 - 😄 Pronouns: **He/Him**
 
 
