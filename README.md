@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 My Name Syahrul Aji Prayoga
 
-<!--
-**Syahrul-Prayoga/Syahrul-Prayoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://komarev.com/ghpvc/?username=Syahrul-Prayoga&color=000000&label=Profile+Visit's)
+[![Syahrul GitHub stats](https://github-readme-stats.vercel.app/api?username=Syahrul-Prayoga&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Under Graduate Reasearch Proposal
+- 🌱 I’m currently focus on learning Laravel and PWA
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... (under pronouns)
 -->
+- 💬 Ask me about Anything
+- 📫 How to reach me: syahrulprayoga@gmail.com
+- 😄 Pronouns: He/Him
+
+
