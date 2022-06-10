@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Under Graduate Reasearch Proposal**
-- 🌱 I’m currently focus on learning **Laravel and PWA**
+- 🌱 I’m currently focus on learning **UI/UX, Laravel and React JS**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **[syahrulprayoga@gmail.com](mailto:syahrulprayoga@gmail.com)**
 - 😄 Pronouns: **He/Him**
