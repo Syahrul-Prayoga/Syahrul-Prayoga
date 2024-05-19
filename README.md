@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Under Graduate Reasearch Proposal**
-- 🌱 I’m currently focus on learning **UI/UX, Laravel and React JS**
+- 🔭 I’m currently working on **Bagian Ortala Setda Bone Bolango**
+- 🌱 I’m currently focus on learning **Laravel**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **[syahrulprayoga@gmail.com](mailto:syahrulprayoga@gmail.com)**
 - 😄 Pronouns: **He/Him**
