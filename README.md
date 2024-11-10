@@ -1,18 +1,22 @@
 ### Hi there 👋 My Name Syahrul Aji Prayoga
 
+## 👨‍💻 About Me
+- 🌱 I'm currently learning: **Laravel, Tailwind, dan TALL Stack**.
+- 🚀 I'm currently working on **freelance projects** and building **an e-SAKIP Bone Bolango application**.
+- 💼 I'm preparing myself to become a freelancer with **Laravel, Tailwind, and Google Sheets** skills.
+- 💬 Ask me about anything related to **Web Development** or **Google Sheets**.
 
+## 🛠️ Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Stats
 [![Syahrul GitHub stats](https://github-readme-stats.vercel.app/api?username=syahrulprayogaa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syahrulprayogaa&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on **Bagian Ortala Setda Bone Bolango**
-- 🌱 I’m currently focus on learning **Laravel**
-- 💬 Ask me about **Anything**
-- 📫 How to reach me: **[syahrulprayoga@gmail.com](mailto:syahrulprayoga@gmail.com)**
-- 😄 Pronouns: **He/Him**
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ... (under pronouns) -->
-
-
+## 📫 How to Reach Me
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syahrulprayoga@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syahrulprayoga)
